@@ -1,4 +1,4 @@
-require_relative './spec/spec_helper'
+require_relative 'rspec ./spec/spec_helper'
 
 describe "say_hello" do
 
